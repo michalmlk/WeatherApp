@@ -8,7 +8,7 @@ const moreButton = document.querySelector('.more')
 const details = document.querySelector('.details')
 
 const showMoreParams = () =>{
-    window.scrollTo(0,windowHeight)
+    window.scrollTo(0,window.outerHeight)
 }
 
 console.log(hour);
