@@ -16,6 +16,7 @@ shows current weather. Moreover there is an icon, which is changing due to the w
 
  - [OpenWeatherMap](https://openweathermap.org/)
  - [Ip2loc](https://ip2loc.com/)
+ - [Try it online!](https://codepen.io/mlmlk/project/editor/ZbLynr)
 
 ## Authors
 
